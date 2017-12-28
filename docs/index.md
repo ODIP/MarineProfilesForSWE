@@ -41,7 +41,7 @@ The profiles defined in this document have been developed within a series of res
 ![SeaDataCloud Logo](images/seadatacloud,png)
 **SeaDataCloud** ([https://www.seadatanet.org/About-us/SeaDataCloud])  is by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRAIA-2016-1) of the European Union under grant agreement number 730960.
 
-![BRIDGES Logo](images/bridges.jpg)
+![BRIDGES Logo](images/BRIDGES.jpg)
 **BRIDGES** (Bringing together Industry for the Development of Glider Environment, [http://www.bridges-h2020.eu]) is funded by the Horizon 2020 Framework Programme for Research and Innovation (H2020-BG-2014-2) of the European Union under grant agreement number 635359.
 
 ![FixO3 Logo](images/fixo3.png)
