@@ -1,5 +1,8 @@
-Common SensorML profiles
-========================
+---
+title: 1. SensorML
+layout: page
+---
+# Common SensorML profiles
 
 “In order to achieve interoperability within and between various sensor
 communities, implementation of SensorML will require the definition of
@@ -256,14 +259,14 @@ PLATFORM MODELS
 |        |[*Data Storage*](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)     |           |
 
 
-                                   
-                                                                                                                                                                                                                                   
-                                                                                                                                                              
-                                                                                                                                                                                                                                   
-                                                                                                                 
-                                                                                                                    
-                                                                                                                                                                                                                                   
-                                                                                                                 
+
+
+
+
+
+
+
+
 
 ### <span id="_xok52toc9kae" class="anchor"><span id="_Toc485492843" class="anchor"></span></span>Contacts
 
@@ -501,7 +504,7 @@ OperationsManual&lt;/CharacterString&gt;&lt;/description&gt;
 
 ### <span id="_a8qjwu9hjv4y" class="anchor"><span id="_Toc485492852" class="anchor"></span></span>CHARACTERISTICS (Additional characteristics diff from model)
 
-#### Code style 
+#### Code style
 
 > &lt;characteristics name="PhysicalCharacteristics"&gt;
 >
@@ -671,7 +674,7 @@ href="http://linkedsystems.uk/system/instance/TOOLYSI_789-654-123/"/&gt;
 
 #### Status: Optional
 
-### <span id="_f7i4mzd8d3vn" class="anchor"><span id="_Toc485492857" class="anchor"></span></span>POSITION 
+### <span id="_f7i4mzd8d3vn" class="anchor"><span id="_Toc485492857" class="anchor"></span></span>POSITION
 
 #### Code style
 
@@ -1078,7 +1081,7 @@ SENSOR MODELS
 |                 | [Sensitivity](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0009/)         |           |
 |                 | [Accuracy](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0001/)     |           |
 |                 | [Frequency](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0003)|     |
-|                 | [*Latency*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0004/)|    | 
+|                 | [*Latency*](http://vocab.nerc.ac.uk/collection/W04/current/CAPB0004/)|    |
 |                 |*Sampling Rate*    |           |
 
 
@@ -1137,7 +1140,7 @@ SENSOR MODELS
 |                |[Lenght](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0002/)|                  |    
 |                |[Data Storage](http://vocab.nerc.ac.uk/collection/W05/current/CHAR0006/)|            |    
 |                |Material                                                          |                  |    
-                                                                                                                                                                               
+
 ### Contacts
 
 #### Code style
@@ -1733,5 +1736,3 @@ REFERENCES
 
 3.  Kokkinaki, Alexandra et al. [“Semantically enhancing SensorML with
     Controlled Vocabularies in the Marine Domain.” (2016).](http://ceur-ws.org/Vol-1762/Kokkinaki.pdf)
-
-
