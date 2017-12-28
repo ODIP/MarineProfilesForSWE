@@ -2,6 +2,8 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
+title: 1. Overview
 layout: default
 ---
 
@@ -33,9 +35,9 @@ layout: default
 
 ![EC Logo](images/ec.png)
 
-The profiles defined in this document have been developed within a series of research projects including:
+The profiles defined in this document have been developed within a series of research projects. Important European projects that supported the profile development comprise:
 
-| | |
+| Acknowledgements| |
 | - | - |
 | ![ODIP Logo](images/odip_II.png) | **ODIP 2** (Extending the Ocean Data Interoperability Platform, [http://www.odip.eu]) is funded by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRASUPP-2014-2) of the European Union under grant agreement number 654310. |
 | ![SeaDataCloud Logo](images/seadatacloud.png) | **SeaDataCloud** ([https://www.seadatanet.org/About-us/SeaDataCloud])  is by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRAIA-2016-1) of the European Union under grant agreement number 730960. |

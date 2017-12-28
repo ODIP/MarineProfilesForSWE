@@ -1,5 +1,5 @@
 ---
-title: 1. SensorML
+title: 2. SensorML
 layout: page
 ---
 # Common SensorML profiles
