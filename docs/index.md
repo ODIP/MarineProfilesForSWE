@@ -20,7 +20,6 @@ layout: default
 </div>
 <br/>
 
-
 ## Authors
 
 * Alexandra Kokkinaki, British Oceanographic Data Centre, alexk@bodc.ac.uk
@@ -34,34 +33,41 @@ layout: default
 
 The profiles defined in this document have been developed within a series of research projects including:
 
-* AODN
-* [BRIDGES](http://www.bridges-h2020.eu/)
-* [ENVRIplus](http://www.envriplus.eu/)
-* [EUROFLEETS/EUROFLEETS2](http://www.eurofleets.eu/np4/home.html)
-* [FixO<sup>3</sup>](http://www.fixo3.eu/)
-* FRAM
-* [IOOS](https://ioos.noaa.gov/)
-* [Jerico/Jerico-Next](http://www.jerico-ri.eu/)
-* [NeXOS](http://www.nexosproject.eu/)
-* [ODIP/ODIP 2](http://www.odip.org/)
-* [RITMARE](http://www.ritmare.it/)
-* [SeaDataCloud](https://www.seadatanet.org/About-us/SeaDataCloud)
-* [SeaDataNet](http://www.seadatanet.org/)
-* [SenseOcean](http://www.senseocean.eu/)
-* [X-DOMES](https://www.earthcube.org/group/x-domes)
-* TODO: Add missing references
-
 ![EC Logo](images/ec.png)
 
+![ODIP Logo](images/odip_II.png)
+**ODIP 2** (Extending the Ocean Data Interoperability Platform, [http://www.odip.eu]) is funded by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRASUPP-2014-2) of the European Union under grant agreement number 654310.
 
-**ODIP 2** (Extending the Ocean Data Interoperability Platform, http://www.odip.eu) is funded by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRASUPP-2014-2) of the European Union under grant agreement number 654310.
+![SeaDataCloud Logo](images/seadatacloud,png)
+**SeaDataCloud** ([https://www.seadatanet.org/About-us/SeaDataCloud])  is by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRAIA-2016-1) of the European Union under grant agreement number 730960.
 
-**SeaDataCloud** (https://www.seadatanet.org/About-us/SeaDataCloud)  is by the Horizon 2020 Framework Programme for Research and Innovation (H2020-INFRAIA-2016-1) of the European Union under grant agreement number 730960.
+![BRIDGES Logo](images/bridges.png)
+**BRIDGES** (Bringing together Industry for the Development of Glider Environment, [http://www.bridges-h2020.eu]) is funded by the Horizon 2020 Framework Programme for Research and Innovation (H2020-BG-2014-2) of the European Union under grant agreement number 635359.
 
-**BRIDGES** (Bringing together Industry for the Development of Glider Environment, http://www.bridges-h2020.eu) is funded by the Horizon 2020 Framework Programme for Research and Innovation (H2020-BG-2014-2) of the European Union under grant agreement number 635359.
+![FixO3 Logo](images/fixo3.png)
+**FixO<sup>3</sup>** (Fixed Point Open Ocean Observatories Network, [http://www.fixo3.eu]) was funded by the Sevenths Framework Programme (FP7) for Research and Innovation (FP7-INFRASTRUCTURES-2012-1-RTD) of the European Union under grant agreement number 312463.
 
-**FixO<sup>3</sup>** (Fixed Point Open Ocean Observatories Network, http://www.fixo3.eu) was funded by the Sevenths Framework Programme (FP7) for Research and Innovation (FP7-INFRASTRUCTURES-2012-1-RTD) of the European Union under grant agreement number 312463.
+![NeXOS Logo](images/nexos.png)
+**NeXOS** (Next generation, Cost-effective, Compact, Multifunctional Web Enabled Ocean Sensor Systems Empowering Marine, Maritime and Fisheries Management, [http://www.nexosproject.eu]) is funded by the Sevenths Framework Programme (FP7) for Research and Innovation (FP7-OCEAN-2013) of the European Union under grant agreement number 614102.
 
-**NeXOS** (Next generation, Cost-effective, Compact, Multifunctional Web Enabled Ocean Sensor Systems Empowering Marine, Maritime and Fisheries Management, http://www.nexosproject.eu) is funded by the Sevenths Framework Programme (FP7) for Research and Innovation (FP7-OCEAN-2013) of the European Union under grant agreement number 614102.
+**AODN**
+
+**[ENVRIplus](http://www.envriplus.eu/)**
+
+**[EUROFLEETS/EUROFLEETS2](http://www.eurofleets.eu/np4/home.html)**
+
+**FRAM**
+
+**[IOOS](https://ioos.noaa.gov/)**
+
+**[Jerico/Jerico-Next](http://www.jerico-ri.eu/)**
+
+**[RITMARE](http://www.ritmare.it/)**
+
+**[SeaDataNet](http://www.seadatanet.org/)**
+
+**[SenseOcean](http://www.senseocean.eu/)**
+
+**[X-DOMES](https://www.earthcube.org/group/x-domes)**
 
 **TODO: ADD FURTHER Acknowledgements**
