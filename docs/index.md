@@ -43,7 +43,7 @@ The profiles defined in this document have been developed within a series of res
 | ![FixO3 Logo](images/fixo3.png) | **FixO<sup>3</sup>** (Fixed Point Open Ocean Observatories Network, [http://www.fixo3.eu]) was funded by the Sevenths Framework Programme (FP7) for Research and Innovation (FP7-INFRASTRUCTURES-2012-1-RTD) of the European Union under grant agreement number 312463. | 
 | ![NeXOS Logo](images/nexos.png) | **NeXOS** (Next generation, Cost-effective, Compact, Multifunctional Web Enabled Ocean Sensor Systems Empowering Marine, Maritime and Fisheries Management, [http://www.nexosproject.eu]) is funded by the Sevenths Framework Programme (FP7) for Research and Innovation (FP7-OCEAN-2013) of the European Union under grant agreement number 614102. | 
 | **[SeaDataNet](http://www.seadatanet.org/)** | | 
-| **[SenseOcean](http://www.senseocean.eu/)** |SenseOCEAN is a Collaborative Project funded by the European Union Seventh Framework Programme (FP7/2007–2013) under grant agreement No. 614141.| 
+| ![SenseOcean Logo](images/senseOceanLogo.png) (http://www.senseocean.eu/)** |SenseOCEAN is a Collaborative Project funded by the European Union Seventh Framework Programme (FP7/2007–2013) under grant agreement No. 614141.| 
 | **[ENVRIplus](http://www.envriplus.eu/)** | | 
 | **[EUROFLEETS/EUROFLEETS2](http://www.eurofleets.eu/np4/home.html)** | | 
 | **[Jerico/Jerico-Next](http://www.jerico-ri.eu/)** | | 
