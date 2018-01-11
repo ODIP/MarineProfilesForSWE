@@ -48,7 +48,7 @@ The profiles defined in this document have been developed within a series of res
 | ![Eurofleets Logo](images/EF-logo.png) |[EUROFLEETS](http://www.eurofleets.eu) has been funded by the EU Seventh Framework Programme of the European Union under grant agreement numbers 228344 and 312762. | 
 | **[Jerico/Jerico-Next](http://www.jerico-ri.eu/)** | 
 | ![EMODNET Data Ingestion Logo](images/EMODnet-ingestion-logo.JPG) | [**EMODnet Data Ingestion**](https://www.emodnet-ingestion.eu/) is funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.| 
-| ![EMODNET Physics Logo](images/EMODnet-logo.JPG) | [**EMODnet Physics**](http://www.emodnet-physics.eu/) is funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.| 
+| ![EMODNET Physics Logo](images/EMODnet-Physics-logo.JPG) | [**EMODnet Physics**](http://www.emodnet-physics.eu/) is funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.| 
 | 
 
 | Further projects | |
